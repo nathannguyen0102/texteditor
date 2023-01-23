@@ -12,4 +12,4 @@ The URL of deployed application: https://texteditor010203.herokuapp.com
 
 # Screenshot
 
-
+<img src="1.PNG">
